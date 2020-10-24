@@ -1,4 +1,4 @@
-# Upload Majic | ACO
+# Upload Magic | ACO
 The new file upload website where you can post your work in less than 5 mins. 
 
 # How does this work?
